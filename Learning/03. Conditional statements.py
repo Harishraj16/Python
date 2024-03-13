@@ -1,7 +1,7 @@
 # If Else Statement in python
 
 '''
-Write a program to check the given number is even or even
+Write a program to check the given number is odd or even
 '''
 
 # =============================================================================
